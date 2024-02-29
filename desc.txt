@@ -1,0 +1,17 @@
+web scrapper -> same website pe reh kr collect krta data
+crawler -> sare link pe jake data collect krta
+
+tools
+beautifulSoup
+selenium
+scrapy
+
+steps
+load
+parsing
+html tree 
+extract data
+transform
+
+what can we scrap
+website/robots.txt
